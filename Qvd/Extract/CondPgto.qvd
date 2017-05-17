@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ <QvdTableHeader>
+   <QvBuildNo>12018</QvBuildNo>
+   <CreatorDoc>D:\QLIKVIEW\PUBLISHER\IMPAAR FOR TOTVS COMERCIAL\Extra√ß√£o.qvw</CreatorDoc>
+   <CreateUtcTime>2014-07-15 12:35:45</CreateUtcTime>
+   <SourceCreateUtcTime></SourceCreateUtcTime>
+   <SourceFileUtcTime></SourceFileUtcTime>
+   <SourceFileSize>-1</SourceFileSize>
+   <StaleUtcTime></StaleUtcTime>
+   <TableName>CondPgto</TableName>
+   <Fields>
+     <QvdFieldHeader>
+       <FieldName>%CondPagtoID</FieldName>
+       <BitOffset>0</BitOffset>
+       <BitWidth>8</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>INTEGER</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt>0</Fmt>
+         <Dec>,</Dec>
+         <Thou>.</Thou>
+       </NumberFormat>
+       <NoOfSymbols>154</NoOfSymbols>
+       <Offset>0</Offset>
+       <Length>770</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>E4_FILIAL</FieldName>
+       <BitOffset>0</BitOffset>
+       <BitWidth>0</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>1</NoOfSymbols>
+       <Offset>770</Offset>
+       <Length>4</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>E4_CODIGO</FieldName>
+       <BitOffset>8</BitOffset>
+       <BitWidth>8</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>154</NoOfSymbols>
+       <Offset>774</Offset>
+       <Length>1386</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>E4_TIPO</FieldName>
+       <BitOffset>50</BitOffset>
+       <BitWidth>1</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>2</NoOfSymbols>
+       <Offset>2160</Offset>
+       <Length>14</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>E4_COND</FieldName>
+       <BitOffset>32</BitOffset>
+       <BitWidth>8</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>89</NoOfSymbols>
+       <Offset>2174</Offset>
+       <Length>1133</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>E4_DESCRI</FieldName>
+       <BitOffset>16</BitOffset>
+       <BitWidth>8</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>131</NoOfSymbols>
+       <Offset>3307</Offset>
+       <Length>1626</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>E4_IPI</FieldName>
+       <BitOffset>51</BitOffset>
+       <BitWidth>1</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>2</NoOfSymbols>
+       <Offset>4933</Offset>
+       <Length>6</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>E4_DDD</FieldName>
+       <BitOffset>40</BitOffset>
+       <BitWidth>3</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>6</NoOfSymbols>
+       <Offset>4939</Offset>
+       <Length>18</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>E4_DESCFIN</FieldName>
+       <BitOffset>0</BitOffset>
+       <BitWidth>0</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>REAL</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec>,</Dec>
+         <Thou>.</Thou>
+       </NumberFormat>
+       <NoOfSymbols>1</NoOfSymbols>
+       <Offset>4957</Offset>
+       <Length>5</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>E4_DIADESC</FieldName>
+       <BitOffset>0</BitOffset>
+       <BitWidth>0</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>REAL</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec>,</Dec>
+         <Thou>.</Thou>
+       </NumberFormat>
+       <NoOfSymbols>1</NoOfSymbols>
+       <Offset>4962</Offset>
+       <Length>5</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>E4_FORMA</FieldName>
+       <BitOffset>43</BitOffset>
+       <BitWidth>5</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>4</NoOfSymbols>
+       <Offset>4967</Offset>
+       <Length>19</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>E4_ACRSFIN</FieldName>
+       <BitOffset>0</BitOffset>
+       <BitWidth>0</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>REAL</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec>,</Dec>
+         <Thou>.</Thou>
+       </NumberFormat>
+       <NoOfSymbols>1</NoOfSymbols>
+       <Offset>4986</Offset>
+       <Length>5</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>E4_SOLID</FieldName>
+       <BitOffset>52</BitOffset>
+       <BitWidth>1</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>2</NoOfSymbols>
+       <Offset>4991</Offset>
+       <Length>6</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>E4_ACRES</FieldName>
+       <BitOffset>0</BitOffset>
+       <BitWidth>0</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>1</NoOfSymbols>
+       <Offset>4997</Offset>
+       <Length>3</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>E4_PERCOM</FieldName>
+       <BitOffset>0</BitOffset>
+       <BitWidth>0</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>REAL</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec>,</Dec>
+         <Thou>.</Thou>
+       </NumberFormat>
+       <NoOfSymbols>1</NoOfSymbols>
+       <Offset>5000</Offset>
+       <Length>5</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>E4_SUPER</FieldName>
+       <BitOffset>0</BitOffset>
+       <BitWidth>0</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>REAL</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec>,</Dec>
+         <Thou>.</Thou>
+       </NumberFormat>
+       <NoOfSymbols>1</NoOfSymbols>
+       <Offset>5005</Offset>
+       <Length>5</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>E4_INFER</FieldName>
+       <BitOffset>0</BitOffset>
+       <BitWidth>0</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>REAL</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec>,</Dec>
+         <Thou>.</Thou>
+       </NumberFormat>
+       <NoOfSymbols>1</NoOfSymbols>
+       <Offset>5010</Offset>
+       <Length>5</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>E4_FATOR</FieldName>
+       <BitOffset>0</BitOffset>
+       <BitWidth>0</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>REAL</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec>,</Dec>
+         <Thou>.</Thou>
+       </NumberFormat>
+       <NoOfSymbols>1</NoOfSymbols>
+       <Offset>5015</Offset>
+       <Length>5</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>E4_PLANO</FieldName>
+       <BitOffset>0</BitOffset>
+       <BitWidth>0</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>1</NoOfSymbols>
+       <Offset>5020</Offset>
+       <Length>5</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>E4_JURCART</FieldName>
+       <BitOffset>0</BitOffset>
+       <BitWidth>0</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>1</NoOfSymbols>
+       <Offset>5025</Offset>
+       <Length>3</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>E4_CTRADT</FieldName>
+       <BitOffset>48</BitOffset>
+       <BitWidth>2</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>3</NoOfSymbols>
+       <Offset>5028</Offset>
+       <Length>17</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>D_E_L_E_T_</FieldName>
+       <BitOffset>0</BitOffset>
+       <BitWidth>0</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>1</NoOfSymbols>
+       <Offset>5045</Offset>
+       <Length>3</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>R_E_C_N_O_</FieldName>
+       <BitOffset>24</BitOffset>
+       <BitWidth>8</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>INTEGER</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec>,</Dec>
+         <Thou>.</Thou>
+       </NumberFormat>
+       <NoOfSymbols>154</NoOfSymbols>
+       <Offset>5048</Offset>
+       <Length>770</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>R_E_C_D_E_L_</FieldName>
+       <BitOffset>0</BitOffset>
+       <BitWidth>0</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>INTEGER</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec>,</Dec>
+         <Thou>.</Thou>
+       </NumberFormat>
+       <NoOfSymbols>1</NoOfSymbols>
+       <Offset>5818</Offset>
+       <Length>5</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>E4_X_IMPB</FieldName>
+       <BitOffset>53</BitOffset>
+       <BitWidth>1</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>2</NoOfSymbols>
+       <Offset>5823</Offset>
+       <Length>6</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>E4_AGRACRS</FieldName>
+       <BitOffset>54</BitOffset>
+       <BitWidth>1</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>2</NoOfSymbols>
+       <Offset>5829</Offset>
+       <Length>10</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>E4_LIMACRS</FieldName>
+       <BitOffset>0</BitOffset>
+       <BitWidth>0</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>REAL</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec>,</Dec>
+         <Thou>.</Thou>
+       </NumberFormat>
+       <NoOfSymbols>1</NoOfSymbols>
+       <Offset>5839</Offset>
+       <Length>5</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>E4_CCORREN</FieldName>
+       <BitOffset>55</BitOffset>
+       <BitWidth>1</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>2</NoOfSymbols>
+       <Offset>5844</Offset>
+       <Length>10</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+   </Fields>
+   <Compression></Compression>
+   <RecordByteSize>7</RecordByteSize>
+   <NoOfRecords>154</NoOfRecords>
+   <Offset>5854</Offset>
+   <Length>1078</Length>
+   <Lineage>
+     <LineageInfo>
+       <Discriminator>ODBC;DSN=Protheus</Discriminator>
+       <Statement>CondPgto:
+LOAD
+	AutoNumber( E4_CODIGO, 'CONDICAO') AS %CondPagtoID,
+	*;SQL 
+SET TRANSACTION ISOLATION LEVEL READ UNCOMMITTED
+SELECT
+	*	
+FROM Protheus_PRD..SE4010
+WHERE
+	D_E_L_E_T_ = ''</Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>ODBC;DSN=Protheus</Discriminator>
+       <Statement>SQL 
+SET TRANSACTION ISOLATION LEVEL READ UNCOMMITTED
+SELECT
+	*	
+FROM Protheus_PRD..SE4010
+WHERE
+	D_E_L_E_T_ = ''</Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - BASE_TRANSACIONAL\CondPgto.qvd</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+   </Lineage>
+   <Comment></Comment>
+ </QvdTableHeader>
+    '      (   !   #   w   x   X   y   _   O   "   j   F   z   {   |   }   ~      -            $   ;               h   1   )   %         	   &          5      .            6      
+   Ä   8   @   K   Å   Ç   É   Ñ      Ö      +      Ü   /   =   >      á   :   C   ,   B   E   V   2   v   à   g   â   J   L   N   ?         G   *   ä   ã         å   Z   ç   é   d   è   \   ]   ê   ë   c   í      3   `   m   ì   î   b   k      a   ï   ñ   e   P   ó   ò   I   R   4   7   0   f   D   i   9   ô      <      l   M   s   Q   S   o   n   p   q   r   A   U   t   T   u   H   W   [   ö   õ   ^         001    002    003     000    004    005    006    008    007 d   100 	   009 
+   010    011    012    013    014    015    016    017    018 º  700 Ω  701 æ  702 ø  703 ¡  705 ƒ  708 ≈  709 «  711 »  712 …  713    714 À  715 ¿  704 ¬  706 √  707 ∆  710 Ã  716 Õ  717 Œ  718 œ  719 –  720 —  721 “  722 ”  723 ‘  724 ’  725 ÷  726 ◊  727 ÿ  728 Ÿ  729    019    020    021    022    023    024    025    026 ⁄  730 €  731 ‹  732 ›  733 ﬁ  734    027 ﬂ  735 ‡  736 ·  737 ‚  738 „  739 ‰  740 Â  741 Ê  742 Á  743 Ë  744 È  745 Í  746 Î  747 Ï  748 Ì  749    028 Ó  750 Ô  751   752 Ò  753 Ú  754 Û  755 Ù  756 ˜  759 ¯  760 ˘  761 ˙  762 ˚  763 *   042 ¸  764    029 ˝  765 ˛  766    030 ˇ  767    768   769   770   771    031   772   773   774   775   776 	  777 
+  778     032   779   780 !   033 "   034   781   782   783   784   785   786   787   788   789   790   791   792   793 #   035   794   795   796   797   798   799    800 !  801 "  802 #  803 $  804 %  805 &  806 '  807 (  808 )  809 *  810 +  811 ,  812 -  813 .  814 /  815 0  816 1  817    1    7    21    28    30     00    07    14 00,30,60 30,60,90 öôôôôô>@30,60 <   60    26 -   45    15    16 
+   10    12    05    01 öôôôôô@5,15 5,15,20 ÆG·zÆ@7,17 7,12,17 ◊£p=
+◊@7,21 7,14,21 è¬ı(\è,@14,28 §p=
+◊£$@10,32 14,21,28 10,21,32 öôôôôY5@21,35 ÆG·zT7@23,33 21,28,35 23,28,33 ffffff4@20,40 öôôôôY9@25,35 20,30,40 25,30,35 8   56 #   35 15,30,60 7,14,21,28,35    18 14,18,22 q=
+◊£p,@14,22 00,60,210 m  365 (   40     32    20 11,16,21    25 12,18,24 8,16,24 21,28,35,42    19 è¬ı(\è<@28,56 7,17,27 30,60,90,120,150,180 28,35,42 ÏQ∏Ök&@11,21 33333s>@30,45 *   42 14,28,42 10,28,56 5,10,15,20,25,30,35,40,45,50,55,60 30,40,50 20,40,60 ,  300 10,17,24    24 30,60,90,120 30,60,90,120,150,180,210,240,270 1,10,10,10,10,10,10,10,10,10,10,10,10 1,22,22,22,22,22,22,22,22,22,22,22,22 1,20,20,20,20,20,20,20,20,20,20,20,20    22 ÏQ∏Ök.@15,21 7,14,18,22      Ä.@15,25 H·zÆG5@21,28 30,60,90,120,150,180,210 1,7,7,7,7,7,7,7,7,7,7,7,7    11 1,3,3,3,3,3,3,3,3,3,3,3,3 16,23,30 ffffff<@28,40 26,33,40    3 ffffff÷?0,35 7,14,21,28 21 DDL 28 DDL 30 DDL SOMENTE ANTECIP 07 DDL 14 DDL AV 30/60 30/60/90 DDL 30/60 DDL VIDE TEXTO 26 DDL 45 DDL A VISTA 28 PERMUTA 15 DDL 16 DDL 10 DDL 12 DDL 05 DDL ANTEC/CREDITO 5,15 DDL 5,15,20 DDL 7,17 DDL 7,12,17 DDL 7,21 DDL 7,14,21 DDL 14,28 DDL 10,32 DDL 14,21,28 DDL 10,21,32 DDL 21,35 DDL 23,33 DDL 21,28,35 DDL 23,28,33 DDL 20,40 DDL 25,35 DDL 20,30,40 DDL 25,30,35 DDL 56 DDL 35 DDL 60 DDL AV F.F. 15 F.F. 30 F.F. 15/30/60 DDL 30 DIAS S/BOLET 7,14,21,28,35DD 18 DD 14,18,22 DDL 14,22 DDL AV/60/210 DDL 30,60 DDL 365 DDL S/BOLET 40 DDL S/BOLETO 32 DDL 15 FORA MES S/B 20 DDL FORA MES 11,16,21 DDL 10 FORA MES S/B 25 FORA MES S/B 12,18,24 DDL 8,16,24 DDL 21,28,35,42 DDL 19 DDL 28 / 56 DDL 7,17,27 DDL 30,60,90 DDL 30.... 180 DDL 28,35,42 DDL 40 DDL 11,21 DDL 30,45 DDL 20 FORA MES S 42 DIAS 14,28,42 DDL 10/ 28/ 56 DDL 10 DDL S BOLETO 10 FORA MES B 12 PARCELAS 35 DDL S/BOLETO 30,40,50 DDL 20,40,60  DDL 300 DDL 10,17,24 DDL 6 PARCELAS 25 DDL 30D BNDS S/BOLE 24 DDL 15 DDL F QUINZ 30 DDL F QUINZ DDL 30 DDL FORA MES 42 DDL 30/60/90/120DDL 9 PARCELAS 10 DDL FIXO 22 DDL FIXO 20 DDL FIXO 10 DDL FORA MES 22DDL FORA MES 10 FORA MES 15 FORA MES 22 FORA MES 15,21 DDL 7,14,18,22 DDL 15,25 DDL 21,28 DDL 7 PARCELAS 21 DDL F QUINZ 20 FORA MES 07DDL S BOLETO 7 DDL FIXO 11 FORA MES 16 FORA MES 21 FORA MES 28 FORA MES 3 DDL FIXO 7 FORA MES 16,23,30 DDL 20 DDL 28,40 DDL 26,33,40 DDL 28,56 DDL 21 DL F QUINZ B 5 FORA MES 25 FORA MES 30 FORA MES 3 DDL 30%ANT. 70%35DD 7,14,21,28 DDL 22 DDL F/MES S N   L D   S F Q         DC      R$ BOL     N   N                          2    1                             	   
+                                                    !   #   $   %   &   '   (   )   *   +   ,   -   .   /   0   1   2   3   4   5   6   7   8   9   :   ;   <   =   >   ?   @   A   B   C   D   E   F   G   H   I   J   K   L   M   N   O   P   Q   R   S   T   U   V   W   X   Y   Z   [   \   ]   ^   a   b   c   d   e   f   g   h   i   j   k   l   m   n   o   p   q   r   s   t   u   v   w   x   y   z   {   |   }   ~      Ä   Å   Ç   É   Ñ   Ö   Ü   á   à   â   ä   ã   å   ç   é   è   ê   ë   í   ì   î   ï   ñ   ó   ò   ô   ö   õ   ú   ù   û   ü   †   °   ¢   £       S N      1          2          !	 	 
+ 					
+
+
+
+
+
+
+1
+     !!       !        !!! """ ### $$$ %%% &&& ''' ((( ))) *** +++ ,, , --!- ..".  //#/! 00$0" 11%1# 22&2$33'3% 444 55(5	 66)6 77*7 88+8 99,9& ::-: ;;.;' <</<( ==0=) >>1>* ??2?+ @@@ AA3A BB4B, CC5C- DD6D. EE7E FF8F/ GG9G0 HH:H II;I1 JJ<J2 KK=K3 LL>L4 MM?M5 NN(N	 OO@O6PPAP7 QQBQ RRCR8 SSDS9 TT0T) UU'U% VVV WWEW- XXFX: YYY ZZGZ; [[H[/ \\I\<
+]]J]= ^^K^>	__L_ ``M` aaNa?
+bbOb% ccPc@ ddQdA eeReB ffSfC ggTg8 hhUh1 iiVi jjWjD kkXk llYl mmZm1
+nnUn1
+ooUo1
+pp[p qq\q< rr]rE ss^sF tt_tGuuu vv`vHwwawIxxbx yycyJ zzdz {{e{ ||f|J }}g}K ~~h~L iM ÄÄjÄN ÅÅkÅO ÇÇlÇ ‡ÉÉmÉ/¿ÑÑnÑ‡ÖÖoÖPƒÜÜpÜQ¿ááqá¿ààrà ¿ââsâ¿äätäRƒããuã¿ååvåS¿ççwç/¿éé
+é
+¿èèxèT¿êêyêU¿ëëzë6¿íí{í ¿ìì|ì¿îî}î1¿ïï~ï¿ñññV¿óóÄóW	“òòÅòX¿ôôÇôJ‡
